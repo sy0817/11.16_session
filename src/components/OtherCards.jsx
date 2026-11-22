@@ -39,7 +39,7 @@ export default function OtherCards({ myId }) {
         {cards.map((c) => (
           <a
             key={c.id}
-            className="stubcard"
+            className="stubcard custom-hover-effect" 
             href={c.url}
             target="_blank"
             rel="noreferrer"
