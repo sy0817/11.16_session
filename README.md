@@ -269,3 +269,7 @@ Vercel 설정 화면에 있던 Build Command 칸이 바로 이 차이입니다.
 1. 커스텀 기능 하나 추가하기 (hover 효과 / 다크모드 / 애니메이션 자유)
 2. `git push` 해서 다시 배포
 3. Vercel **Deployments** 탭을 **날짜가 보이게** 캡처해서 제출
+
+## 과제 제출
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e033e1a8-d0dd-4853-a6ca-ecc6fa75cc3a" />
+
